@@ -1,0 +1,76 @@
+[ 2017-04-14T11:41:50+08:00 ] ::1 /xcxmovshow/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000531s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000725s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001590s ]
+
+[ 2017-04-14T11:55:13+08:00 ] ::1 /xcxmovshow/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000990s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2017-04-14T11:57:19+08:00 ] ::1 /xcxmovshow/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-04-14T13:45:54+08:00 ] ::1 /xcxmovshow/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-04-14T13:46:04+08:00 ] ::1 /xcxmovshow/index.php/Home/Index/hell
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+

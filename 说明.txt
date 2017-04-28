@@ -1,0 +1,4 @@
+框架：thinkphp
+对接：discuz论坛pc端
+接口
+验证采用小程序微信code模式
