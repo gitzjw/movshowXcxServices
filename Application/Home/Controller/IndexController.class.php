@@ -371,8 +371,8 @@ class IndexController extends Controller
         $username = I('get.nickName');
         $avatar = I('get.avatarUrl');
         $code = I('get.code');
-        $appid = "wx1d3d2889c4f9cbef";
-        $AppSecret = "3aefb87c6ebc74a6f25b4972432a58c2";
+        $appid = "xxxxxxxx小程序appid";
+        $AppSecret = "xxxxxxx小程序私钥";
         $url = "https://api.weixin.qq.com/sns/jscode2session?appid=" . $appid . "&secret=" . $AppSecret . "&js_code=" . $code . "&grant_type=authorization_code";
         $session = getCurlPush($url);
         $sessionobj = json_decode($session);

@@ -22,8 +22,8 @@ class BannerController extends Controller
     }
     public function onlog()
     {
-        $N = "leepet9552@";
-        $P = "pwdsa456@@55";
+        $N = "账户@";
+        $P = "密码@";
         $key = md5($N.$P."456413d1fsdgfdgd");
         $name = trim(I('post.username'));
         $password = trim(I('post.password'));
